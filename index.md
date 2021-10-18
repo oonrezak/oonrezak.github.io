@@ -8,14 +8,14 @@
 
 ### Identifying Reddit Topics Using K-Means<a name="redditminiproject"></a>
 
-#### Keyword
+#### Keywords
 * clustering, unsupervised machine learning
 * vectorization, tf-idf
 * dimensionality reduction, tsvd
 * data visualization and storytelling
 
 #### Project Summary
-Reddit is an online discussion site, where people come together to bring up and discuss about various topics. A sample of about 6000 reddit posts was provided. The objective of this notebook was to identify the topics present among them.
+Reddit is an online discussion site, where people come together to bring up and discuss about various topics. The objective of this project was to identify the topics present in a sample of about 6000 reddit posts.
 
 The data was preprocessed by cleaning and removal of duplicated entries, and the frequently-appearing terms in the post titles were identified in order to get preliminary insights as to what the topics might be.
 
