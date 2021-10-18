@@ -8,6 +8,11 @@
 
 ### Identifying Reddit Topics Using K-Means<a name="redditminiproject"></a>
 
+<img src="images/dim_redux_1.jpg?raw=true"/>
+<img src="images/clustering_1.jpg?raw=true"/>
+<img src="images/internal_val_1.jpg?raw=true"/>
+<img src="images/reddit_wordcloud_1.jpg?raw=true"/>
+
 #### Keywords
 * clustering, unsupervised machine learning
 * vectorization, tf-idf
