@@ -1,11 +1,29 @@
-## Portfolio
+# Portfolio
+---
+
+## Table of Contents
+* [Reddit Mini Project](#redditminiproject)
 
 ---
 
-### Category Name 1 
+### Identifying Reddit Topics Using K-Means<a name="redditminiproject"></a>
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Keyword
+* clustering, unsupervised machine learning
+* vectorization, tf-idf
+* dimensionality reduction, tsvd
+* data visualization and storytelling
+
+#### Project Summary
+Reddit is an online discussion site, where people come together to bring up and discuss about various topics. A sample of about 6000 reddit posts was provided. The objective of this notebook was to identify the topics present among them.
+
+The data was preprocessed by cleaning and removal of duplicated entries, and the frequently-appearing terms in the post titles were identified in order to get preliminary insights as to what the topics might be.
+
+Clustering was performed on the the clean post titles. First, the post titles were vectorized using TF-IDF. After that, the dimensionality of the vectors was reduced using TSVD. The criterion for dimensionality reduction was that the cumulative variance explained needed to be at least 80%. K-Means clustering was then performed and the optimum number(s) of clusters was taken based on internal validation criteria. The clusters formed were interpreted in an attempt to identify the topic of each.
+
+#### Links
+* [Write-Up](/html_previews/redditminiproject/redditminiproject.html)
+* [Project repository on github](https://github.com/oonrezak/reddit_mini_project)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
