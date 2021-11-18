@@ -6,7 +6,7 @@
 
 ---
 <a name="redditminiproject"></a>
-### [Identifying Reddit Topics Using K-Means](/redditminiproject.md)
+### [Identifying Reddit Topics Using K-Means](/pages/redditminiproject.md)
 
 <div class="gridwrapper">
   <div class="one"><img src="images/dim_redux_1.jpg?raw=true"/></div>
