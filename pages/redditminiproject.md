@@ -1,12 +1,13 @@
 ## Identifying Reddit Topics Using K-Means
 
 <div class="gridwrapper">
-  <div class="one"><img src="../images/dim_redux_1.jpg?raw=true"/></div>
-  <div class="two"><img src="../images/clustering_1.jpg?raw=true"/></div>
-  <div class="three"><img src="../images/internal_val_1.jpg?raw=true"/></div>
-  <div class="four"><img src="../images/reddit_wordcloud_1.jpg?raw=true"/></div>
+  <div class="one"><img src="../images/redditminiproject/dim_redux_1.jpg?raw=true"/></div>
+  <div class="two"><img src="../images/redditminiproject/clustering_1.jpg?raw=true"/></div>
+  <div class="three"><img src="../images/redditminiproject/internal_val_1.jpg?raw=true"/></div>
+  <div class="four"><img src="../images/redditminiproject/reddit_wordcloud_1.jpg?raw=true"/></div>
 </div>
 
+<br />
 ### Keywords
 * clustering, unsupervised machine learning
 * vectorization, tf-idf
@@ -23,3 +24,4 @@ Clustering was performed on the the clean post titles. First, the post titles we
 ### Links
 * [Notebook and Write-Up](/html_previews/redditminiproject/redditminiproject.html)
 * [Project repository on github](https://github.com/oonrezak/reddit_mini_project)
+* [Back to Main Page] (/index.md)
