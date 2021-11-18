@@ -24,4 +24,4 @@ Clustering was performed on the the clean post titles. First, the post titles we
 ### Links
 * [Notebook and Write-Up](/html_previews/redditminiproject/redditminiproject.html)
 * [Project repository on github](https://github.com/oonrezak/reddit_mini_project)
-* [Back to Main Page] (/index.md)
+* [Back to Main Page](/index.md)

@@ -29,4 +29,4 @@ Lastly, the discussion forum was reviewed with the objective of learning what ar
 ### Links
 * [Notebook and Write-Up](/html_previews/enpassantproject/enpassantproject.html)
 * [Project repository on github](https://github.com/oonrezak/enpassant_project)
-* [Back to Main Page] (/index.md)
+* [Back to Main Page](/index.md)
