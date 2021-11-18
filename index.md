@@ -2,8 +2,10 @@
 ---
 
 ## Table of Contents
+
 * [Identifying Reddit Topics Using K-Means](#redditminiproject)
-* [En Passant: An Analysis of Trends and Patterns in Chess](#enpassantproject)
+* [En Passant - An Analysis of Trends and Patterns in Chess](#enpassantproject)
+
 ---
 <a name="redditminiproject"></a>
 ### [Identifying Reddit Topics Using K-Means](/pages/redditminiproject.md)
