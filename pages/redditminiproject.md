@@ -1,10 +1,10 @@
 ## Identifying Reddit Topics Using K-Means
 
 <div class="gridwrapper">
-  <div class="one"><img src="images/dim_redux_1.jpg?raw=true"/></div>
-  <div class="two"><img src="images/clustering_1.jpg?raw=true"/></div>
-  <div class="three"><img src="images/internal_val_1.jpg?raw=true"/></div>
-  <div class="four"><img src="images/reddit_wordcloud_1.jpg?raw=true"/></div>
+  <div class="one"><img src="../images/dim_redux_1.jpg?raw=true"/></div>
+  <div class="two"><img src="../images/clustering_1.jpg?raw=true"/></div>
+  <div class="three"><img src="../images/internal_val_1.jpg?raw=true"/></div>
+  <div class="four"><img src="../images/reddit_wordcloud_1.jpg?raw=true"/></div>
 </div>
 
 ### Keywords
