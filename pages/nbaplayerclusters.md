@@ -26,6 +26,6 @@ The data was scaled using the MinMaxScaler in order to mitigate the effect of va
 Coaches should look out for the players in the two star clusters each year. These clusters are provided in the Conclusion section for reference.
 
 ### Links
-* [Notebook and Write-Up](/html_previews/enpassantproject/nbaplayerclusters.html)
+* [Notebook and Write-Up](/html_previews/nbaplayerclusters/nbaplayerclusters.html)
 * [Project repository on github](https://github.com/oonrezak/nba_playerclusters)
 * [Back to Main Page](https://oonrezak.github.io/)

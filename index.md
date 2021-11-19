@@ -5,7 +5,7 @@
 
 * [Identifying Reddit Topics Using K-Means](#redditminiproject)
 * [En Passant - An Analysis of Trends and Patterns in Chess](#enpassantproject)
-* [Clustering Player Groups from the NBA Roster (2018-2019)](#nbaplayerclusters
+* [Clustering Player Groups from the NBA Roster (2018-2019)](#nbaplayerclusters)
 
 ---
 <a name="redditminiproject"></a>
