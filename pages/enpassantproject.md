@@ -1,9 +1,9 @@
 ## En Passant: An Analysis of Trends and Patterns in Chess
 
 <div class="gridwrapper">
-  <div class="one"><img src="../images/enpassantproject/chess_openings.png?raw=true"/></div>
+  <div class="one"><img src="../images/enpassantproject/fidescatter.png?raw=true"/></div>
   <div class="two"><img src="../images/enpassantproject/heatmap1.png?raw=true"/></div>
-  <div class="three"><img src="../images/enpassantproject/fidescatter.png?raw=true"/></div>
+  <div class="three"><img src="../images/enpassantproject/chess_openings.png?raw=true"/></div>
   <div class="four"><img src="../images/enpassantproject/wordcloudpawn.png?raw=true"/></div>
 </div>
 
