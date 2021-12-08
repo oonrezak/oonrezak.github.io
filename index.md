@@ -6,6 +6,8 @@
 * [Identifying Reddit Topics Using K-Means](#redditminiproject)
 * [En Passant - An Analysis of Trends and Patterns in Chess](#enpassantproject)
 * [Clustering Player Groups from the NBA Roster (2018-2019)](#nbaplayerclusters)
+* [Formulating the Optimum Concrete Mix Using Machine Learning](#concretenonlinear)
+
 
 ---
 <a name="redditminiproject"></a>
@@ -58,5 +60,20 @@
 * unsupervised machine learning, clustering
 
 ---
+<a name="concretenonlinear"></a>
+## [Formulating the Optimum Concrete Mix Using Machine Learning](/pages/concretenonlinear.md)
+
+<div class="gridwrapper">
+  <div class="one"><img src="images/concretenonlinear/correlations.png?raw=true"/></div>
+  <div class="two"><img src="images/concretenonlinear/benchmarks.png?raw=true"/></div>
+  <div class="three"><img src="images/concretenonlinear/mix_economy.jpg?raw=true"/></div>
+  <div class="four"><img src="images/concretenonlinear/feature_importances.png?raw=true"/></div>
+</div>
+
+### Keywords
+* machine learning, regression, 
+* benchmarking, optimization
+* feature engineering
+* feature importances, explainability
 
 ### More coming soon!
