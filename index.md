@@ -7,7 +7,7 @@
 * [En Passant - An Analysis of Trends and Patterns in Chess](#enpassantproject)
 * [Clustering Player Groups from the NBA Roster (2018-2019)](#nbaplayerclusters)
 * [Formulating the Optimum Concrete Mix Using Machine Learning](#concretenonlinear)
-
+* [2019 Philippine National Election Stories: An Anthology](#election2019)
 
 ---
 <a name="redditminiproject"></a>
@@ -75,5 +75,19 @@
 * benchmarking, optimization
 * feature engineering
 * feature importances, explainability
+
+---
+<a name="election2019"></a>
+## [2019 Philippine National Election Stories: An Anthology](/pages/election2019.md)
+
+<div class="gridwrapper">
+  <div class="one"><img src="images/election2019/rank_boxplot.png?raw=true"/></div>
+  <div class="two"><img src="images/election2019/voter_turnout.png?raw=true"/></div>
+</div>
+
+### Keywords
+* data visualization, storytelling
+
+---
 
 ### More coming soon!
